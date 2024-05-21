@@ -3,4 +3,6 @@ Team: TechDuo<br/>
 <br/>
 High-school: Colegiul National B.P. Hasdeu<br/>
 <br/>
+Technology: Thunkable<br/>
+<br/>
 Language: English<br/>
